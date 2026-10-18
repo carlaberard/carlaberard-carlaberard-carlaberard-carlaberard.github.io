@@ -1,0 +1,26 @@
+START HERE — PUBLISH YOUR FREE PORTFOLIO
+========================================
+
+1. Extract this ZIP. Do not upload the ZIP itself.
+2. Open assets/data/config.js with Notepad.
+3. Replace YOUR_GITHUB_USERNAME with your GitHub username.
+4. Save the file (Ctrl + S).
+5. Go to https://github.com/new
+6. Create a PUBLIC repository named exactly YOUR_GITHUB_USERNAME.github.io
+   (replace with your real username). Leave "Add README" unchecked.
+7. Upload everything INSIDE this extracted folder to your new repository.
+   Important: index.html must appear in the repository's top-level file list.
+8. Go to the repository: Settings > Pages > Deploy from a branch
+   Branch: main, folder: /(root), then Save.
+9. Wait up to 10 minutes and visit https://YOUR_GITHUB_USERNAME.github.io
+
+OPTIONAL LATER:
+- Add email or LinkedIn: assets/data/config.js
+- Add CV PDF: assets/CV.pdf and set showCVButton to true
+- Update a repository name: assets/data/projects.js > repo field
+
+You can first double-click index.html to preview the website on your own PC.
+
+This download is the BLUE & WHITE design edition.
+
+V2 change: dark hero graphic removed and headline updated.
